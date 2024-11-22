@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9ADBA0B5-4DB2-34CF-9792-D085B8DF4373}|task-1\\task1.vcxproj|C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9ADBA0B5-4DB2-34CF-9792-D085B8DF4373}|task-1\\task1.vcxproj|solutionrelative:task-1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8DCC1944-F580-3E76-9E96-C408EAF2B179}|task-2\\task2.vcxproj|C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DCC1944-F580-3E76-9E96-C408EAF2B179}|task-2\\task2.vcxproj|solutionrelative:task-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-1\\main.cpp",
-              "RelativeDocumentMoniker": "task-1\\main.cpp",
-              "ToolTip": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-1\\main.cpp",
-              "RelativeToolTip": "task-1\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-2\\main.cpp",
+              "RelativeDocumentMoniker": "task-2\\main.cpp",
+              "ToolTip": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-2\\main.cpp",
+              "RelativeToolTip": "task-2\\main.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-18T15:11:28.691Z",
+              "WhenOpened": "2024-11-22T14:19:52.061Z",
               "EditorCaption": ""
             }
           ]
