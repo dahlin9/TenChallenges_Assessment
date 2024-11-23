@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-enum calcuationErrors {
+enum errorMsgs {
     ERROR_INVALID_FLOAT_INPUT = 1,
 };
 
@@ -13,10 +13,8 @@ int main()
     cin >> baseNumber;
 
     while (cin.fail()) {
-        cerr << "[!] ERROR: Invalid input. Please try again.";
+        cerr << "[!] ERROR: Invalid input. Exiting.";
         return 1;
-        cout << "Please enter a number: " << endl;
-        cin >> baseNumber;
     }
 
     //Outputting all options

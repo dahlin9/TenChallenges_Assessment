@@ -1,7 +1,22 @@
 #include <iostream>
+#include <string>
+using namespace std;
 
-int main(int argc, char* argv[])
+enum errorMsgs {
+    ERROR_INVALID_FLOAT_INPUT = 1,
+};
+
+int main()
 {
-    //Insert your code to complete challenge 4
-    return 0;
+    cout << "Enter some text : ";
+    string userInput;
+    getline (cin, userInput);
+
+    while (cin.fail()) {
+        cerr << "Invalid input try again!\n";
+        cout << "Enter some text: \n";
+        getline(cin, userInput);
+    }
+
+
 }
