@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F3CF4A5C-6B5B-3F33-B0D4-A575AD335B96}|task-4\\task4.vcxproj|C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3CF4A5C-6B5B-3F33-B0D4-A575AD335B96}|task-4\\task4.vcxproj|solutionrelative:task-4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AB1766-04C1-3134-9201-39C29C2143C3}|task-3\\Task3.vcxproj|C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87AB1766-04C1-3134-9201-39C29C2143C3}|task-3\\Task3.vcxproj|solutionrelative:task-3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DCC1944-F580-3E76-9E96-C408EAF2B179}|task-2\\task2.vcxproj|C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8DCC1944-F580-3E76-9E96-C408EAF2B179}|task-2\\task2.vcxproj|solutionrelative:task-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ADBA0B5-4DB2-34CF-9792-D085B8DF4373}|task-1\\task1.vcxproj|C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9ADBA0B5-4DB2-34CF-9792-D085B8DF4373}|task-1\\task1.vcxproj|solutionrelative:task-1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +32,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-4\\main.cpp",
+              "RelativeDocumentMoniker": "task-4\\main.cpp",
+              "ToolTip": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-4\\main.cpp",
+              "RelativeToolTip": "task-4\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T00:03:57.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-1\\main.cpp",
+              "RelativeDocumentMoniker": "task-1\\main.cpp",
+              "ToolTip": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-1\\main.cpp",
+              "RelativeToolTip": "task-1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T00:03:33.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-3\\main.cpp",
+              "RelativeDocumentMoniker": "task-3\\main.cpp",
+              "ToolTip": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-3\\main.cpp",
+              "RelativeToolTip": "task-3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T14:30:04.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-2\\main.cpp",
               "RelativeDocumentMoniker": "task-2\\main.cpp",
               "ToolTip": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-2\\main.cpp",
               "RelativeToolTip": "task-2\\main.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-22T14:19:52.061Z",
               "EditorCaption": ""
