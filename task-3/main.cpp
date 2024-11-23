@@ -19,7 +19,8 @@ int main()
 
     //Outputting all options
     cout << endl << "neg(x): " << baseNumber * -1 << endl;
-    // For above, I initially wrote 'cout << endl << "neg(x): -" << baseNumber << endl;', however as the code allows for a float, if the user inputted a negative as baseNumber, it'd print as --x, not -x. Hence the change.
+    // For above, I initially wrote 'cout << endl << "neg(x): -" << baseNumber << endl;', 
+    // however as the code allows for a float, if the user inputted a negative as baseNumber, it'd print as --x, not -x. Hence the change.
     cout << "abs(x): " << abs(baseNumber) << endl;
     cout << "pow2(x): " << baseNumber * baseNumber << endl;
     cout << "pow3(x): " << baseNumber * baseNumber * baseNumber << endl;
@@ -30,3 +31,4 @@ int main()
 
     return 0;
 }
+

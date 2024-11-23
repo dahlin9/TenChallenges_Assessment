@@ -13,10 +13,15 @@ int main()
     getline (cin, userInput);
 
     while (cin.fail()) {
-        cerr << "Invalid input try again!\n";
-        cout << "Enter some text: \n";
+        cerr << "[!} ERROR: Invalid input, text needed.";
+        cout << "Try again: \n";
         getline(cin, userInput);
     }
 
+    while (userInput == " ") {
+        cerr << "[!] ERROR: Invalid input, nothing entered.";
+        cout << "Try again: \n";
+        getline(cin, userInput);
+    }
 
 }
