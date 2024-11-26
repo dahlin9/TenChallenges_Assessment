@@ -28,6 +28,7 @@ int main()
         cin >> experiencePoints;
     }
 
+    //XP calculator
     int currentPlayerLevel = experiencePoints / 100;
     int assumedLevelIncrease = currentPlayerLevel + 1;
     int experiencePointsProgress = (assumedLevelIncrease * 100) - experiencePoints;
