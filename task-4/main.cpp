@@ -3,10 +3,10 @@
 using namespace std;
 
 enum errorMsgs {
-    ERROR_INVALID_FLOAT_INPUT = 1,
+    ERROR_USER_INPUT = 1,
 };
 
-int main()
+int main(int argx, char* argv[])
 {
     cout << "Enter some text : ";
     string userInput;
@@ -23,5 +23,23 @@ int main()
         cout << "Try again: \n";
         getline(cin, userInput);
     }
+
+    //Top line
+    for (char c : userInput) {
+        cout << "+=-=";
+    }
+    cout << "+ \n";
+
+    // Tabulate string + middle line
+    for (char c : userInput) {
+        cout << "| " << c << " ";
+    }
+    cout << "| \n";
+
+    //Bottom line
+    for (char c : userInput) {
+        cout << "+=-=";
+    }
+    cout << "+ \n";
 
 }
