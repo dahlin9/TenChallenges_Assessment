@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3CF4A5C-6B5B-3F33-B0D4-A575AD335B96}|task-4\\task4.vcxproj|C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F3CF4A5C-6B5B-3F33-B0D4-A575AD335B96}|task-4\\task4.vcxproj|solutionrelative:task-4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9A8A67DB-EBF3-3A96-8ED0-466FED211A1C}|task-5\\task5.vcxproj|C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A8A67DB-EBF3-3A96-8ED0-466FED211A1C}|task-5\\task5.vcxproj|solutionrelative:task-5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91019530-BCD8-3996-AB0F-F29DAF8EFB9A}|task-6\\Task6.vcxproj|C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91019530-BCD8-3996-AB0F-F29DAF8EFB9A}|task-6\\Task6.vcxproj|solutionrelative:task-6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-6\\main.cpp",
+              "RelativeDocumentMoniker": "task-6\\main.cpp",
+              "ToolTip": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-6\\main.cpp",
+              "RelativeToolTip": "task-6\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T09:20:27.865Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-4\\main.cpp",
-              "RelativeDocumentMoniker": "task-4\\main.cpp",
-              "ToolTip": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-4\\main.cpp",
-              "RelativeToolTip": "task-4\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBMAAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-5\\main.cpp",
+              "RelativeDocumentMoniker": "task-5\\main.cpp",
+              "ToolTip": "C:\\Users\\garga\\source\\repos\\TenChallenges_Assessment\\task-5\\main.cpp",
+              "RelativeToolTip": "task-5\\main.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-26T05:22:12.289Z",
+              "WhenOpened": "2024-11-26T09:52:23.035Z",
               "EditorCaption": ""
             }
           ]
